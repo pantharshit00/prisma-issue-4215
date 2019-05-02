@@ -1,0 +1,2 @@
+endpoint: http://stealth_prisma_1:4466
+datamodel: datamodel.prisma
